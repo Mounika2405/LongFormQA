@@ -8,7 +8,7 @@ The task is to generate multi-sentence/long detailed answers to questions that r
 **Improvement 2**: Avoiding repetitions in answers with constrained multi head attention in the transformer decoder.
 
 
-More details on these improvements are present in the report. We have adapted the [Named Link] (https://github.com/pytorch/fairseq "fairseq") codebase for our project and have followed the same preprocessing steps as specified here.
+More details on these improvements are present in the report. We have adapted the [fairseq] (https://github.com/pytorch/fairseq) codebase for our project and have followed the same preprocessing steps as specified here.
 
 Dataset Link: 
 Base Paper Implementation Link: 
